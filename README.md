@@ -3,7 +3,9 @@
 [![Blog](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://dev-vinicyos-ferreira.netlify.app/)](https://dev-vinicyos-ferreira.netlify.app/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicyos-ferreira/)
 
-#### Uma pessoa apaixonada por tecnologia e inovação, com mais de 2 anos de experiência na área de suporte e infraestrutura. Durante esse período, adquiri habilidades fundamentais como análise e resolução de problemas, trabalho em equipe e comunicação com usuários. Estou explorando a área de desenvolvimento Front-End, visando crescer profissionalmente e criar projetos escaláveis que agreguem valor às pessoas.
+### 💻 Uma pessoa apaixonada por tecnologia e inovação 
+### 🚀 Com mais de +2 anos de experiência na área de suporte e infraestrutura
+### 🛠️ Experiência em desenvolvimento front-end e estudando Node.js
 
 ![Vinicyos Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicyosFerreira&show_icons=true&theme=dracula)
 
