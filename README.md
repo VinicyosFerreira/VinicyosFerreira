@@ -5,11 +5,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicyosferreiradev@gmail.com)
 
 ## 👨‍💻 Sobre mim
-   * 💙 Uma pessoa apaixonada por tecnologia e inovação, comecei a estudar programação aos 17 anos, quando estava na época de responder a temida pergunta, "qual profissão irei seguir?" Comecei vendo videos no      youtube sobre a área no geral, mas tive curso na Udemy que falei para meu pai comprar na época para mim custando 27 reais, sobre HTML & CSS, onde consegui montar meus primeiros projetinhos simples, ao mesmo       tempo achei fascinantes os resultados - foi aí que decidi investir e seguir firme na carreira de desenvolvedor
+   * 💙 Uma pessoa apaixonada por tecnologia e inovação, comecei a estudar programação aos 17 anos, quando estava na época de responder a temida pergunta, "qual profissão irei seguir?" Comecei vendo videos no      youtube sobre a área no geral, mas tive curso na Udemy que falei para meu pai comprar na época para mim custando 27 reais, sobre HTML & CSS, onde consegui montar meus primeiros projetinhos simples, ao mesmo       tempo achei fascinantes os resultados - foi aí que decidi investir e seguir firme na carreira de desenvolvedor.
    * 🚀 Com mais de **+2 anos de experiência** na área de suporte e infraestrutura de TI.
-   * 🛠️ **Experiência em desenvolvimento em front-end**, ampliando estudos e prática em **back-end** e **banco de dados**.
+   * 🛠️ **Experiência +2 anos em desenvolvimento em full stack**, ampliando aplicações com prática em **back-end** e **banco de dados**, álem de estudos com Python e análise de dados.
    * 🎯 **Minha visão** é crescer profissionalmente na área de programação e criar projetos escaláveis que agreguem valor às pessoas.
-   * ⚽ Sou apaixonado por futebol e exercícios físicos no geral, é o que mais gosto de fazer no tempo livre.
+   * ⚽ Sou apaixonado por futebol e exercícios físicos no geral.É onde desenvolvo energia e disciplina para continuar me desenvolvendo profissionalmente.
 
 ## 🛠️ Stacks
    <div>
