@@ -45,6 +45,15 @@
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   </div>
 
+   <div>
+    <h3>🚀 DevOps & Ferramentas</h3>
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </div>
+
+
 ## 🚀 Um pouco mais sobre o meu perfil
 ![Vinicyos Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicyosFerreira&show_icons=true&theme=dracula)
 
