@@ -57,7 +57,7 @@
 </div>
 
 <div>
-  <h3>🚀 DevOps, Cloud & Tools</h3>
+  <h3>🚀 DevOps & Tools</h3>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
