@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/RAG-Architecture-FF6F61?style=for-the-badge" alt="RAG Architecture" />
   <img src="https://img.shields.io/badge/Vector_Search-4B5563?style=for-the-badge" alt="Vector Search" />
   <img src="https://img.shields.io/badge/Qdrant_Cloud-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant Cloud" />
-  <img src="https://img.shields.io/badge/LLM_Engineering-8B5CF6?style=for-the-badge" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/LLM_Integration-8B5CF6?style=for-the-badge" alt="LLM Integration" />
   
 </div>
 
